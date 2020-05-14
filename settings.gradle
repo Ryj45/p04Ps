@@ -1,0 +1,2 @@
+rootProject.name='p04Ps'
+include ':app'
